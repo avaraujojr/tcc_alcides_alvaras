@@ -21,7 +21,7 @@ nome,tema,inteira,n_inicio,n_final,em_lei,nome_lei,link_princ_fonte
 "R. AUGUSTO STRESSER","Bares e restaurantes","Trecho",685,945,"Sim","Alto Juvevê",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2017/1509/15098/lei-ordinaria-n-15098-2017-cria-o-polo-gastronomico-do-alto-juveve
 "R. DESEMBARGADOR MOTTA","Bares e restaurantes","Trecho",1880,2400,"Sim","Petit Batel",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2020/1578/15780/lei-ordinaria-n-15780-2020-cria-o-polo-gastronomico-e-cultural-do-petit-batel
 "R. DOUTOR BLEY ZORNIG","Lojas de tecidos","Trecho",910,1900,"Não","N/A",https://www.gazetadopovo.com.br/economia/10-ruas-de-comercio-tematico-em-curitiba-3b0kd9ka6wh6hn7rncm4b6nyd/
-"R. ITUPAVA","Bares e restaurantes","Trecho",700,1740,"Não","N/A",https://www.curitiba.pr.gov.br/noticias/conheca-dez-roteiros-gastronomicos-de-curitiba/42974
+"R. ITUPAVA","Bares e restaurantes","Trecho",700,1740,"Sim","Itupava",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2016/1501/15010/lei-ordinaria-n-15010-2016-cria-o-polo-gastronomico-da-itupava?q=15010
 "R. CORONEL DULCÍDIO","Bares e restaurantes","Trecho",130,705,"Sim","Petit Batel",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2020/1578/15780/lei-ordinaria-n-15780-2020-cria-o-polo-gastronomico-e-cultural-do-petit-batel
 "R. ALFERES ANGELO SAMPAIO","Bares e restaurantes","Trecho",1400,2100,"Sim","Petit Batel",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2020/1578/15780/lei-ordinaria-n-15780-2020-cria-o-polo-gastronomico-e-cultural-do-petit-batel
 "R. ANDRE DE BARROS","Lojas de cabelo","Trecho",800,955,"Não","N/A",https://www.gazetadopovo.com.br/economia/10-ruas-de-comercio-tematico-em-curitiba-3b0kd9ka6wh6hn7rncm4b6nyd/
@@ -40,6 +40,6 @@ nome,tema,inteira,n_inicio,n_final,em_lei,nome_lei,link_princ_fonte
 "R. PAULA GOMES","Brechós ou antiguidades","Trecho",0,480,"Não","N/A",https://www.gazetadopovo.com.br/economia/10-ruas-de-comercio-tematico-em-curitiba-3b0kd9ka6wh6hn7rncm4b6nyd/
 "R. GUTEMBERG","Bares e restaurantes","Trecho",0,180,"Sim","Petit Batel",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2020/1578/15780/lei-ordinaria-n-15780-2020-cria-o-polo-gastronomico-e-cultural-do-petit-batel
 "R. JOSÉ DE ALENCAR","Bares e restaurantes","Trecho",2040,2360,"Sim","Alto Juvevê",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2017/1509/15098/lei-ordinaria-n-15098-2017-cria-o-polo-gastronomico-do-alto-juveve
-"R. TEFFÉ","Calçados","Trecho",345,634,"Não","N/A",https://www.gazetadopovo.com.br/economia/10-ruas-de-comercio-tematico-em-curitiba-3b0kd9ka6wh6hn7rncm4b6nyd/
+"R. TEFFÉ","Calçados","Trecho",345,634,"Sim","Portal Teffé",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2007/1219/12190/lei-ordinaria-n-12190-2007-fica-autorizado-o-poder-executivo-a-erigir-o-portal-teffe-shopping-aberto-de-calcados
 "R. RECIFE","Bares e restaurantes","Trecho",0,600,"Sim","Alto Juvevê",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2017/1509/15098/lei-ordinaria-n-15098-2017-cria-o-polo-gastronomico-do-alto-juveve
 "R. JOÃO AMÉRICO DE OLIVEIRA","Bares e restaurantes","Trecho",0,250,"Sim","Alto Juvevê",https://leismunicipais.com.br/a/pr/c/curitiba/lei-ordinaria/2017/1509/15098/lei-ordinaria-n-15098-2017-cria-o-polo-gastronomico-do-alto-juveve
